@@ -1,0 +1,16 @@
+[theme]
+# Warna primer (misalnya untuk tombol, slider, dan link).
+# Gunakan warna yang menenangkan seperti hijau mint atau biru muda untuk tema kesehatan.
+primaryColor="#4CAF50"  # Contoh: Hijau Sehat
+
+# Warna latar belakang utama aplikasi.
+backgroundColor="#F0F2F6" # Latar belakang abu-abu muda, lebih lembut dari putih
+
+# Warna latar belakang container atau sidebar.
+secondaryBackgroundColor="#FFFFFF" # Sidebar tetap putih
+
+# Warna teks.
+textColor="#262730"
+
+# Font yang digunakan. Streamlit mendukung 'sans serif', 'serif', atau 'monospace'.
+font="sans serif"
